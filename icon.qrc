@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/back.png</file>
+        <file>icon/close_window.png</file>
+        <file>icon/forward.png</file>
+        <file>icon/maximize_window.png</file>
+        <file>icon/media.png</file>
+        <file>icon/minimize_window.png</file>
+        <file>icon/movie.png</file>
+        <file>icon/music.png</file>
+        <file>icon/play.png</file>
+        <file>icon/quiet.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/expand.png</file>
+        <file>icon/vo_fullscreen.png</file>
+    </qresource>
+</RCC>
